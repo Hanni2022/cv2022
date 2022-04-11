@@ -1,0 +1,47 @@
+.skill-bars{
+	width: 400px;
+}
+.skill-bars li{
+	background-color: #313131;
+}
+.skill-bars li .progress{
+	background-color: #FF0077;
+}
+.icon--fucsia{
+	background-color: #FF0077 !important;
+}
+.timeline-content h4{
+	margin-bottom: 40px;
+}
+.timeline-block{
+	margin-bottom: 90px;
+}
+.folio-item{
+	padding: 5px !important;
+}
+.intro-info {
+    width: 687px;
+}
+.form-field input, textarea{
+	border: 1px solid;
+    padding-left: 20px;
+    width: 100%;
+	margin-bottom: 10px;
+}
+.ajus--button{
+	text-align: end;
+	margin-top: 30px;
+}
+
+.error{
+	color: #a52f2f !important;
+}
+
+.row.contact-info {
+    display: flex;
+    justify-content: space-between;
+	margin-top: 15px;
+}
+
+
+
